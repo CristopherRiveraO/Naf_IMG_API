@@ -31,7 +31,22 @@
         {
             "imagen": "img/galeria/gelx-8.jpg",
             "categoria": "GelX"
+        },
+        {
+            "imagen": "img/galeria/acrilico-1.jpg",
+            "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/acrilico-2.jpg",
+            "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/acrilico-3.jpg",
+            "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/acrilico-4.jpg",
+            "categoria": "acrilicas"
         }
-
    ]
 }
