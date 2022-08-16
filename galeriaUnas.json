@@ -79,6 +79,20 @@
         {
             "imagen": "img/galeria/calcio-8.jpg",
             "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/semi-1.jpg",
+            "categoria": "semi"
+        }
+        ,
+        {
+            "imagen": "img/galeria/semi-2.jpg",
+            "categoria": "semi"
+        }
+        ,
+        {
+            "imagen": "img/galeria/semi-3.jpg",
+            "categoria": "semi"
         }
    ]
 }
