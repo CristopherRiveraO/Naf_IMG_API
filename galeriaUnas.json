@@ -1,0 +1,37 @@
+{
+    "imagenes": [
+        {
+            "imagen": "img/galeria/cejas-1.jpg",
+            "categoria": "GelX",
+        },
+        {
+            "imagen": "img/galeria/cejas-2.jpg",
+            "categoria": "GelX",
+        },
+        {
+            "imagen": "img/galeria/cejas-3.jpg",
+            "categoria": "GelX",
+        },
+        {
+            "imagen": "img/galeria/cejas-4.jpg",
+            "categoria": "GelX",
+        },
+        {
+            "imagen": "img/galeria/cejas-5.jpg",
+            "categoria": "GelX",
+        },
+        {
+            "imagen": "img/galeria/cejas-6.jpg",
+            "categoria": "GelX",
+        },
+        {
+            "imagen": "img/galeria/cejas-7.jpg",
+            "categoria": "GelX",
+        },
+        {
+            "imagen": "img/galeria/cejas-8.jpg",
+            "categoria": "GelX",
+        },
+
+   ]
+}
