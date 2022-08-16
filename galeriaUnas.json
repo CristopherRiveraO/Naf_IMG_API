@@ -47,6 +47,38 @@
         {
             "imagen": "img/galeria/acrilico-4.jpg",
             "categoria": "acrilicas"
+        },
+        {
+            "imagen": "img/galeria/calcio-1.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-2.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-3.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-4.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-5.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-6.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-7.jpg",
+            "categoria": "calcio"
+        },
+        {
+            "imagen": "img/galeria/calcio-8.jpg",
+            "categoria": "calcio"
         }
    ]
 }
